@@ -1,6 +1,10 @@
 {
   "name": "gapi-react-component",
-  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halo8880/gapi-react-component"
+  },
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "author": "halo88",

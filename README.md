@@ -16,3 +16,5 @@ dataToCopy format: Array of arrays
     ['column1', 'column2'],
 ]
 ```
+
+https://github.com/halo8880/gapi-react-component
