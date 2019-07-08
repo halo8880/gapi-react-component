@@ -1,0 +1,11 @@
+{
+  "name": "gapi-component-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "halo88",
+  "license": "ISC",
+  "dependencies": {
+    "react": "16.8.6"
+  }
+}

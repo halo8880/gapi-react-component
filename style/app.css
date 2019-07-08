@@ -1,0 +1,63 @@
+.gapi__component {
+    width: 700px;
+    min-height: 30px;
+}
+
+.gapi__component .gapi__component__wrapper {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 30px;
+    font-family: 'Roboto';
+}
+
+.gapi__component .gapi__component__label {
+    line-height: 30px;
+    vertical-align: middle;
+    font-weight: bold;
+    text-align: center;
+    min-width: 25%;
+    max-width: 25%;
+}
+
+.gapi__component .gapi__component__select {
+    border-radius: 5px;
+    border: 1px solid #f5f5f5;
+    min-width: 50%;
+    max-width: 50%;
+}
+
+.gapi__component .gapi__component__btn {
+    background-color: #2979ff;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+
+.gapi__component .gapi__component__btnCopy {
+    min-width: 23%;
+    max-width: 23%;
+}
+
+.gapi__component .gapi__component__btnSignIn {
+    width: 100%;
+}
+
+.gapi__component .gapi__component__error {
+    color: red;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    background-color: #edb2b2;
+    border: 1px solid #edb2b2;
+}
+
+.gapi__component .gapi__component__successMessage {
+    color: green;
+    text-align: center;
+    margin-top: 10px;
+    font-weight: bold;
+    background-color: #edfff0;
+    border: 1px solid #edfff0;
+}
